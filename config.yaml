@@ -1,0 +1,10 @@
+# Configuration for multiple Catalyst Center instances
+catalyst_centers:
+  - name: "Catalyst_Center_1"
+    url: "<Catalyst Center - 1 IP address>"
+    username: "<Catalyst Center - 1 username>"
+    password: "<Catalyst Center - 1 password>"
+  - name: "<Catalyst_Center_2>"
+    url: "<Catalyst Center - 2 IP address>"
+    username: "<Catalyst Center - 2 username>"
+    password: "<Catalyst Center - 2 password>"
